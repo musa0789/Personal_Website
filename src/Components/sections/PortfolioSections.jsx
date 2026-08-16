@@ -22,7 +22,7 @@ import {
   TOKENS,
 } from "../../constants/data";
 import img1 from "../../assets/PortfolioSections/Photo..jpg";
-import img2 from "../../assets/PortfolioSections/Photo.jpeg";
+import img2 from "../../assets/PortfolioSections/photo.jpeg";
 import pdf1 from "../../assets/mycv/EmranCV.pdf";
 import pdf2 from "../../assets/mycv/Resume.pdf";
 
