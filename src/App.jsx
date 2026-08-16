@@ -3,7 +3,7 @@ import { TOKENS } from "./constants/data";
 import { ScrollProgress } from "./Components/ui/SharedUI";
 import Navbar from "./Components/layout/Navbar";
 import Footer from "./Components/layout/Footer";
-import { Hero, About, ExperienceAndPublications, Research, Awards, Projects, Education, Featured, Contact } from "./components/sections/PortfolioSections";
+import { Hero, About, ExperienceAndPublications, Research, Awards, Projects, Education, Featured, Contact } from "./Components/sections/PortfolioSections";
 
 export default function Portfolio() {
   return (
